@@ -19,6 +19,7 @@ counterweight.
 | [42vibes-opencode](https://github.com/42vibes/42vibes-opencode) | OpenCode V2 theme |
 | [42vibes-vscode](https://github.com/42vibes/42vibes-vscode) | VS Code / VSCodium theme extension |
 | [42vibes-firefox](https://github.com/42vibes/42vibes-firefox) | Firefox theme, dark and light |
+| [42vibes-chrome](https://github.com/42vibes/42vibes-chrome) | Chrome/Chromium theme, dark and light |
 | [42vibes-stack](https://github.com/42vibes/42vibes-stack) | Installer that applies the palette across tools |
 
 ## Install

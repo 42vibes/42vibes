@@ -19,6 +19,7 @@ warmes Gold als Gegenpol.
 | [42vibes-opencode](https://github.com/42vibes/42vibes-opencode) | OpenCode-V2-Theme |
 | [42vibes-vscode](https://github.com/42vibes/42vibes-vscode) | Theme-Extension für VS Code und VSCodium |
 | [42vibes-firefox](https://github.com/42vibes/42vibes-firefox) | Firefox-Theme, dunkel und hell |
+| [42vibes-chrome](https://github.com/42vibes/42vibes-chrome) | Chrome-/Chromium-Theme, dunkel und hell |
 | [42vibes-stack](https://github.com/42vibes/42vibes-stack) | Installer, der die Palette in alle Tools bringt |
 
 ## Installation
